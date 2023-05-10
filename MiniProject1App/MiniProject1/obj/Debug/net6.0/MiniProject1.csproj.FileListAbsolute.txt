@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\bin\Debug\net6.0\MiniProject1.exe
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\bin\Debug\net6.0\MiniProject1.deps.json
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\bin\Debug\net6.0\MiniProject1.runtimeconfig.json
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\bin\Debug\net6.0\MiniProject1.dll
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\bin\Debug\net6.0\MiniProject1.pdb
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.AssemblyInfo.cs
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.dll
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\refint\MiniProject1.dll
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.pdb
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\MiniProject1.genruntimeconfig.cache
+C:\Users\musah\source\repos\MiniProject1App\MiniProject1\obj\Debug\net6.0\ref\MiniProject1.dll

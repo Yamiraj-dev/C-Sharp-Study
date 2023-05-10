@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.AssemblyInfo.cs
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.exe
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.deps.json
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.runtimeconfig.json
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.dll
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\bin\Debug\net6.0\TypeConversionsHomework.pdb
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.dll
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\refint\TypeConversionsHomework.dll
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.pdb
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\TypeConversionsHomework.genruntimeconfig.cache
+C:\Users\musah\source\repos\TypeConversionsHomeworkApp\TypeConversionsHomework\obj\Debug\net6.0\ref\TypeConversionsHomework.dll

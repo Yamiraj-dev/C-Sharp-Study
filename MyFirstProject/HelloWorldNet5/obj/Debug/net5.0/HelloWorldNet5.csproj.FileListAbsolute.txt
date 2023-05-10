@@ -1,0 +1,16 @@
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.exe
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.deps.json
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.runtimeconfig.json
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.runtimeconfig.dev.json
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.dll
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\bin\Debug\net5.0\HelloWorldNet5.pdb
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.AssemblyInfo.cs
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.dll
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\refint\HelloWorldNet5.dll
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.pdb
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\HelloWorldNet5.genruntimeconfig.cache
+C:\Users\musah\source\repos\MyFirstProject\HelloWorldNet5\obj\Debug\net5.0\ref\HelloWorldNet5.dll

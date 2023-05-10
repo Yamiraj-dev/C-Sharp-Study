@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\bin\Debug\net6.0\BasicIf.exe
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\bin\Debug\net6.0\BasicIf.deps.json
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\bin\Debug\net6.0\BasicIf.runtimeconfig.json
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\bin\Debug\net6.0\BasicIf.dll
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\bin\Debug\net6.0\BasicIf.pdb
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.AssemblyInfo.cs
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.dll
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\refint\BasicIf.dll
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.pdb
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\BasicIf.genruntimeconfig.cache
+C:\Users\musah\source\repos\ConditionalsApp\Conditionals\obj\Debug\net6.0\ref\BasicIf.dll

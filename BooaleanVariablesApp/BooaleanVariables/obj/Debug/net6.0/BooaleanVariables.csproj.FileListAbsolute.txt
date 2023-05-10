@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\bin\Debug\net6.0\BooaleanVariables.exe
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\bin\Debug\net6.0\BooaleanVariables.deps.json
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\bin\Debug\net6.0\BooaleanVariables.runtimeconfig.json
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\bin\Debug\net6.0\BooaleanVariables.dll
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\bin\Debug\net6.0\BooaleanVariables.pdb
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.AssemblyInfo.cs
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.dll
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\refint\BooaleanVariables.dll
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.pdb
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\BooaleanVariables.genruntimeconfig.cache
+C:\Users\musah\source\repos\BooaleanVariablesApp\BooaleanVariables\obj\Debug\net6.0\ref\BooaleanVariables.dll
