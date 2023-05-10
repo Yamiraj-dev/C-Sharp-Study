@@ -1,4 +1,6 @@
-﻿
+﻿// ask for user name 
+// only exit once the user types exit
+// greet if it is tim as a professor, everyone else is greeted normally. 
 string firstName; 
 
 do 
