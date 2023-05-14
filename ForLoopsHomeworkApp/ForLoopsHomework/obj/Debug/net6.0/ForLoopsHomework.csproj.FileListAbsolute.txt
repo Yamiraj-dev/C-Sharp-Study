@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.exe
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.deps.json
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.runtimeconfig.json
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.dll
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\bin\Debug\net6.0\ForLoopsHomework.pdb
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.AssemblyInfo.cs
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.dll
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\refint\ForLoopsHomework.dll
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.pdb
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ForLoopsHomework.genruntimeconfig.cache
+C:\Users\musah\source\repos\ForLoopsHomeworkApp\ForLoopsHomework\obj\Debug\net6.0\ref\ForLoopsHomework.dll
