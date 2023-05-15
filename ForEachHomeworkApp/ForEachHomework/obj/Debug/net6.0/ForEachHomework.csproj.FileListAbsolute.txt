@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\bin\Debug\net6.0\ForEachHomework.exe
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\bin\Debug\net6.0\ForEachHomework.deps.json
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\bin\Debug\net6.0\ForEachHomework.runtimeconfig.json
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\bin\Debug\net6.0\ForEachHomework.dll
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\bin\Debug\net6.0\ForEachHomework.pdb
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.AssemblyInfo.cs
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.dll
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\refint\ForEachHomework.dll
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.pdb
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ForEachHomework.genruntimeconfig.cache
+C:\Users\musah\source\repos\ForEachHomeworkApp\ForEachHomework\obj\Debug\net6.0\ref\ForEachHomework.dll
