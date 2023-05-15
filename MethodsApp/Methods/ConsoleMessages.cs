@@ -19,13 +19,25 @@ public static class ConsoleMessages
         Console.WriteLine($"Hello {firstName}!");
     }
     
-    // instead of void, we set the value to the data type we expect and also return that value 
+    // instead of void, we set the value to the data type we give out and also return that value 
     public static string GetUserName()
     {
         Console.Write("What is your name: ");
         string name = Console.ReadLine();
 
         return name;
+    }
+
+    // if you want to return 2 or more values, we use a tuple
+    public static (string firstName, string lastName) GetFullName()
+    {
+        Console.Write("What is your first name: ");
+        string firstName = Console.ReadLine();
+
+        Console.Write("What is your last name: ");
+        string lastName = Console.ReadLine();
+
+        return (firstName, lastName);
     }
 
     public static void SayGoodbye()

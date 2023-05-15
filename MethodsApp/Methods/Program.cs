@@ -12,7 +12,7 @@ using System.Transactions;
 // Working on a method is better than fixing copied code in multiple areas
 
 // SOLID - S (SRP) single responsbility principle 
-string name = ConsoleMessages.GetUserName();
+/*string name = ConsoleMessages.GetUserName();
 
 ConsoleMessages.SayHello(name);
 ConsoleMessages.SayGoodbye();
@@ -21,5 +21,12 @@ double result = MathShortcuts.Add(5, 7);
 Console.WriteLine($"The result is {result}");
 
 double[] vals = new double[] { 2, 7, 4, 3, 5, 7, 8, 6, 3, 2, 1, 9, 4 };
-MathShortcuts.AddAll(vals);
+MathShortcuts.AddAll(vals);*/
+
+
+//Discard character is an underscore "_", which we can use like (string firstName, _) to ignore one of the called types 
+(string firstName, string lastName) = ConsoleMessages.GetFullName(); // can use var instead of (string, string) instead
+
+Console.WriteLine($"First Name: {firstName}");
+Console.WriteLine($"Last Name: {lastName}" );
 
