@@ -14,9 +14,18 @@ namespace Methods;
 public static class ConsoleMessages
 {
     // naming a method uses Pascal Casing (every word's first letter is capitalized)
-    public static void SayHello()
+    public static void SayHello(string firstName)
     {
-        Console.WriteLine("Hello there!");
+        Console.WriteLine($"Hello {firstName}!");
+    }
+    
+    // instead of void, we set the value to the data type we expect and also return that value 
+    public static string GetUserName()
+    {
+        Console.Write("What is your name: ");
+        string name = Console.ReadLine();
+
+        return name;
     }
 
     public static void SayGoodbye()

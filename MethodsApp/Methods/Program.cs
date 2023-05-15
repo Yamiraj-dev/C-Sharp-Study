@@ -1,4 +1,5 @@
 ﻿using Methods;
+using System.Transactions;
 // we can shorthen samplemethods.sayhello by adding :
 // using static Methods.SampleMethods; however we might run into ambiguous calls the more we shorten calls
 
@@ -11,5 +12,14 @@
 // Working on a method is better than fixing copied code in multiple areas
 
 // SOLID - S (SRP) single responsbility principle 
-ConsoleMessages.SayHello();
+string name = ConsoleMessages.GetUserName();
+
+ConsoleMessages.SayHello(name);
 ConsoleMessages.SayGoodbye();
+
+double result = MathShortcuts.Add(5, 7);
+Console.WriteLine($"The result is {result}");
+
+double[] vals = new double[] { 2, 7, 4, 3, 5, 7, 8, 6, 3, 2, 1, 9, 4 };
+MathShortcuts.AddAll(vals);
+
