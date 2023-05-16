@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\musah\source\repos\UsingBreakpointsDemo\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
