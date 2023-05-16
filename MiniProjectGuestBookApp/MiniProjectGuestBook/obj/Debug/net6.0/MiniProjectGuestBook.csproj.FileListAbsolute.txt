@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net6.0\MiniProjectGuestBook.exe
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net6.0\MiniProjectGuestBook.deps.json
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net6.0\MiniProjectGuestBook.runtimeconfig.json
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net6.0\MiniProjectGuestBook.dll
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\bin\Debug\net6.0\MiniProjectGuestBook.pdb
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.AssemblyInfo.cs
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.dll
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\refint\MiniProjectGuestBook.dll
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.pdb
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\MiniProjectGuestBook.genruntimeconfig.cache
+C:\Users\musah\source\repos\MiniProjectGuestBookApp\MiniProjectGuestBook\obj\Debug\net6.0\ref\MiniProjectGuestBook.dll
