@@ -53,3 +53,7 @@
 // Throw in the catch block continues running code as if an exception was not there. 
 
 // We wrap the badcall because it can catch an unhandled exception when one is thrown at it. 
+
+// Throw a new exception to properly show our stacktrace. 
+
+//** DO NOT blindly catch and/or ignore exceptions. Do not carry through bad data through your application. 

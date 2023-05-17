@@ -1,0 +1,15 @@
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\bin\Debug\net6.0\DebuggingBasicsHomework.exe
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\bin\Debug\net6.0\DebuggingBasicsHomework.deps.json
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\bin\Debug\net6.0\DebuggingBasicsHomework.runtimeconfig.json
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\bin\Debug\net6.0\DebuggingBasicsHomework.dll
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\bin\Debug\net6.0\DebuggingBasicsHomework.pdb
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.csproj.AssemblyReference.cache
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.AssemblyInfoInputs.cache
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.AssemblyInfo.cs
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.csproj.CoreCompileInputs.cache
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.dll
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\refint\DebuggingBasicsHomework.dll
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.pdb
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\DebuggingBasicsHomework.genruntimeconfig.cache
+C:\Users\musah\source\repos\DebuggingBasicsHomeworkApp\DebuggingBasicsHomework\obj\Debug\net6.0\ref\DebuggingBasicsHomework.dll
